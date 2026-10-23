@@ -41,8 +41,8 @@ I’m working toward a portfolio of practical projects that reflect my learning 
 
 ## 🤝 Connect
 
-- **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
+- **LinkedIn:(www.linkedin.com/in/md-habibur-rahman-2902763b5)
+- **GitHub:  (https://github.com/habibur-261)
 
 Thanks for visiting my profile! Feel free to explore my work, share feedback, or connect. I'm here to learn, build, and make steady progress—one project and one problem at a time.
 
