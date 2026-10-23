@@ -46,4 +46,4 @@ I’m working toward a portfolio of practical projects that reflect my learning 
 
 Thanks for visiting my profile! Feel free to explore my work, share feedback, or connect. I'm here to learn, build, and make steady progress—one project and one problem at a time.
 
-> “Great things are done by a series of small things brought together.” — Vincent van Gogh
+ “Great things are done by a series of small things brought together.” — Vincent van Gogh
