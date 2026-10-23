@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Habibur Rahman
 
+<!--<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
+</p> -->
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&weight=700&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
 </p>
+
 
 ---
 
@@ -81,13 +87,13 @@ I'm passionate about understanding how technology works under the hood, solving 
 
 ---
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibur-261&theme=github-compact&color=F59E0B&line=F59E0B&point=F59E0B&hide_border=true" />
 </p>
 
----
+--- -->
 
 ## 🎯 Goals
 
@@ -114,9 +120,9 @@ I'm passionate about understanding how technology works under the hood, solving 
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=habibur-261&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS"/>
-</p>
+</p>-->
 
 <p align="center">
   <b>✨ Learning • Building • Solving • Growing ✨</b>
