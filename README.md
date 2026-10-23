@@ -123,5 +123,5 @@ I'm passionate about understanding how technology works under the hood, solving 
 </p>
 
 <p align="center">
-  <i>"The best way to learn code is to do it."</i>
+  <i>"Great things are done by a series of small things brought together."</i>
 </p>
