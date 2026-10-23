@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Habibur Rahman
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
 </p>
 
 ---
