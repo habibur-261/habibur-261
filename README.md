@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&weight=700&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&weight=700&lines=Computer+Science+Undergraduate;Competitive+Programming+Enthusiast;Exploring+Cybersecurity;Always+Learning+and+Building" />
 </p>
 
 
@@ -25,7 +25,7 @@ I'm passionate about understanding how technology works under the hood, solving 
 - 🌱 Building my foundation in computer science
 - 🚀 Always learning, experimenting, and improving
 
-**My Motto:** The best way to learn is to do it.
+**My Motto:** It always seems impossible until it's done.
 
 ---
 
@@ -58,13 +58,10 @@ I'm passionate about understanding how technology works under the hood, solving 
 
 <p align="center">
   <a href="https://github.com/habibur-261/WhiteBoard-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habibur-261&repo=WhiteBoard-Scanner&theme=dark&title_color=F59E0B&icon_color=F59E0B" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/habibur-261?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=habibur-261&repo=WhiteBoard-Scanner&theme=dark&title_color=F59E0B&icon_color=F59E0B&cache_seconds=86400"
+      alt="WhiteBoard-Scanner repository card"
+    />
   </a>
 </p>
 
